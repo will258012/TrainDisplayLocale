@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Language UniqueName="ko" ReadableName="Korean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Language UniqueName="ko" ReadableName="한국어" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Translations> <!-- Example  -->
 		<Translation ID="A_TD_NEXT" String="다음역" /> <!-- 다음역 OO.  OO is the station name.-->
 		<Translation ID="A_TD_NOW_STOPPING_AT" String="이번역" /> <!-- 이번역 OO.  OO is the station name.-->

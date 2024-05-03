@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Language UniqueName="zh" ReadableName="Simplified Chinese" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Language UniqueName="zh" ReadableName="简体中文" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<Translations> 														<!-- Example  --> 
 																		<!-- [Note] Chinese characters should be placed as Japanese kanji instead of English words. --> 
 		<Translation ID="A_TD_NEXT" String="下一站" />     				<!--下一站 OO.  OO is the station name.-->
@@ -9,6 +9,6 @@
     <Translation ID="A_TD_SETTINGS_DISPLAY_WIDTH" String="显示宽度" />
     <Translation ID="A_TD_SETTINGS_DISPLAY_LANGUAGE" String="显示语言" />
     <Translation ID="A_TD_SETTINGS_SYSTEM_LANGUAGE" String="系统语言" />
-    <Translation ID="A_TD_SETTINGS_TEXT_SHRINKED" String="Shrink next station text when it is long (beta)" />
+    <Translation ID="A_TD_SETTINGS_TEXT_SHRINKED" String="如果下一站文字较长，则缩小该文字（Beta）" />
 	</Translations>
 </Language>
