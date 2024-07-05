@@ -5,10 +5,15 @@
 		<Translation ID="A_TD_NOW_STOPPING_AT" String="Now stopping at" />
 		<Translation ID="A_TD_FOR" String="For" />
 		<Translation ID="A_TD_FOR_CIRCULAR" String="For" />
-    <Translation ID="A_TD_SETTINGS_DISPLAY_WIDTH" String="Display Width" />
-    <Translation ID="A_TD_SETTINGS_DISPLAY_LANGUAGE" String="Display Language" />
-    <Translation ID="A_TD_SETTINGS_SYSTEM_LANGUAGE" String="System Language" />
+    <Translation ID="A_TD_SETTINGS_DISPLAY_WIDTH" String="Display width" />
+    <Translation ID="A_TD_SETTINGS_DISPLAY_LANGUAGE" String="Display language" />
+    <Translation ID="A_TD_SETTINGS_SYSTEM_LANGUAGE" String="System language" />
     <Translation ID="A_TD_SETTINGS_TEXT_SHRINKED" String="Shrink next station text when it is long (beta)" />
     <Translation ID="A_TD_SETTINGS_STATION_SUFFIX" String="Station suffix"/>
+    <Translation ID="A_TD_SETTINGS_DISPLAY_VEHICLE_TYPE" String="Display vehicle types"/>
+    <Translation ID="A_TD_SETTINGS_IS_TRAIN" String="Train"/>
+    <Translation ID="A_TD_SETTINGS_IS_METRO" String="Metro"/>
+    <Translation ID="A_TD_SETTINGS_IS_MONORAIL" String="Monorail"/>
+    <Translation ID="A_TD_SETTINGS_IS_TRAM" String="Tram"/>
 	</Translations>
 </Language>

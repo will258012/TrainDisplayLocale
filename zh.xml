@@ -11,5 +11,10 @@
     <Translation ID="A_TD_SETTINGS_SYSTEM_LANGUAGE" String="系统语言" />
     <Translation ID="A_TD_SETTINGS_TEXT_SHRINKED" String="如果下一站文字较长，则缩小该文字（Beta）" />
     <Translation ID="A_TD_SETTINGS_STATION_SUFFIX" String="车站名后缀"/>
+    <Translation ID="A_TD_SETTINGS_DISPLAY_VEHICLE_TYPE" String="显示车辆类型"/>
+    <Translation ID="A_TD_SETTINGS_IS_TRAIN" String="火车"/>
+    <Translation ID="A_TD_SETTINGS_IS_METRO" String="地铁"/>
+    <Translation ID="A_TD_SETTINGS_IS_MONORAIL" String="单轨列车"/>
+    <Translation ID="A_TD_SETTINGS_IS_TRAM" String="电车"/>
 	</Translations>
 </Language>
