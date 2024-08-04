@@ -16,5 +16,9 @@
     <Translation ID="A_TD_SETTINGS_IS_METRO" String="地铁"/>
     <Translation ID="A_TD_SETTINGS_IS_MONORAIL" String="单轨列车"/>
     <Translation ID="A_TD_SETTINGS_IS_TRAM" String="电车"/>
+    <Translation ID="A_TD_SETTINGS_IS_BUS" String="公交"/>
+    <Translation ID="A_TD_SETTINGS_IS_TROLLEYBUS" String="无轨电车"/>
+    <Translation ID="A_TD_SETTINGS_IS_FERRY" String="渡轮"/>
+    <Translation ID="A_TD_SETTINGS_IS_BLIMP" String="飞艇"/>
 	</Translations>
 </Language>

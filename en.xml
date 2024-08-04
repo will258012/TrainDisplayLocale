@@ -15,5 +15,9 @@
     <Translation ID="A_TD_SETTINGS_IS_METRO" String="Metro"/>
     <Translation ID="A_TD_SETTINGS_IS_MONORAIL" String="Monorail"/>
     <Translation ID="A_TD_SETTINGS_IS_TRAM" String="Tram"/>
+    <Translation ID="A_TD_SETTINGS_IS_BUS" String="Bus"/>
+    <Translation ID="A_TD_SETTINGS_IS_TROLLEYBUS" String="Trolleybus"/>
+    <Translation ID="A_TD_SETTINGS_IS_FERRY" String="Ferry"/>
+    <Translation ID="A_TD_SETTINGS_IS_BLIMP" String="Blimp"/>
 	</Translations>
-</Language>
+</Language>   
