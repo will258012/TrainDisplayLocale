@@ -1,0 +1,11 @@
+﻿"LANGUAGE","Deutsch","Language name (in native language)."
+"LANGUAGE_CHOICE","Sprache auswählen","Heading for language selection menu."
+"LANGUAGE_GAME","Spielsprache verwenden","Default selection in language selection menu."
+"DETAIL_LOGGING","Aktiviert detailierte Debugging-Protokollierung","Option to record more detail in game log"
+"NEXT","Nächste Station",""
+"NOW_STOPPING_AT","Aktueller Halt",""
+"FOR","Richtung",""
+"FOR_CIRCULAR","Richtung",""
+"SETTINGS_DISPLAY_WIDTH","Display-Breite",""
+"SETTINGS_TEXT_SHRINKED","Name der nächsten Station verkleinern, wenn zu lang (Beta)",""
+
