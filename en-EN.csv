@@ -21,6 +21,6 @@
 "SETTINGS_IS_BLIMP","Blimp",""
 "WARNTITLE","Warning!",""
 "WARNDETAIL","Train Display has stopped displaying：{1}{0}",""
-"WARNTEXT","Unexpected duplicate station names were detected on this route",""
+"WARNTEXT","Duplicate station names were detected on this route",""
 "IGNORE","Ignore",""
 "HIDE","Hide Display",""

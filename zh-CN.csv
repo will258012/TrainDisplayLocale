@@ -21,6 +21,6 @@
 "SETTINGS_IS_BLIMP","飞艇",""
 "WARNTITLE","警告",""
 "WARNDETAIL","Train Display 已停止显示：{1}{0}",""
-"WARNTEXT","在此路线上检测到了意外的重复站名",""
+"WARNTEXT","在此路线上检测到了重复的站名",""
 "IGNORE","忽略",""
 "HIDE","关闭显示",""
