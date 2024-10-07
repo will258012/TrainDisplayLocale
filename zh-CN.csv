@@ -8,6 +8,7 @@
 "FOR","开往",""  
 "FOR_CIRCULAR","方向",""
 "SETTINGS_DISPLAY_WIDTH","显示宽度",""
+"SETTINGS_STATION_NAME_ANGLE","站名旋转角度 (Beta)"
 "SETTINGS_TEXT_SHRINKED","如果下一站文字较长，则缩小该文字（Beta）",""
 "SETTINGS_STATION_SUFFIX","车站名后缀",""
 "SETTINGS_DISPLAY_VEHICLE_TYPE","显示车辆类型",""
